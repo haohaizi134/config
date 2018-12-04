@@ -14,4 +14,4 @@ spring:
 server:
   port: 8866
 env:
-    dev1.1.1.1.1
+    dev222
